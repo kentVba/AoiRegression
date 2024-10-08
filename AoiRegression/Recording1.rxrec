@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="927357c3-b3a3-4787-8b72-f065d459c3f8"
+mode="Global"
+rxversion="8.0">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="AoiRegression">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="69b9ad4c-6a89-4edb-8717-68f1e381c595"
+	name="AoiRegressionRepository"
+	relativepath="AoiRegressionRepository.rxrep"
+	rxversion="8.0">
+		<codegen
+		classname="AoiRegressionRepository"
+		namespace="AoiRegression">
+		</codegen>
+		<rootfolder
+		id="048987bb-0c9c-4979-bf30-312030265387"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

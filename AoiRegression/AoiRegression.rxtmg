@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="AoiRegression"
+      id="6d53bc4e-9cf7-4ae7-ae14-533819156280"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="AoiRegression"
+      id="6d53bc4e-9cf7-4ae7-ae14-533819156280"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

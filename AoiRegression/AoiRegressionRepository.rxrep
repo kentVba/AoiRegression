@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="AoiRegressionRepository"
+id="69b9ad4c-6a89-4edb-8717-68f1e381c595"
+rxversion="8.0">
+  <codegen
+  classname="AoiRegressionRepository"
+  namespace="AoiRegression"/>
+  <rootfolder
+  name="Root"
+  id="048987bb-0c9c-4979-bf30-312030265387"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

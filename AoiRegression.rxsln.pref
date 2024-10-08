@@ -1,0 +1,13 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{411B6D0E-0B63-41CE-87D0-B404715D9CDD}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution AoiRegression[AoiRegression[Kent[]Tony[]]]]&#xD;&#xA;&#xD;&#xA;Solution AoiRegression" />
+  <StartupProject value="{411B6D0E-0B63-41CE-87D0-B404715D9CDD}" />
+</Properties>
